@@ -47,7 +47,7 @@ Then: `<Space> e` to open the file tree, `<Space> t h` to open a terminal at the
 2. Add Neovim to your PATH in `~/.zshenv`:
 
 ```bash
-export PATH="/Users/username/SoftwareDevelopment/nvim-macos-arm64/bin:$PATH"
+export PATH="/Users/username/your-path/bin:$PATH"
 ```
 
 3. Verify the install:
